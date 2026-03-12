@@ -36,7 +36,7 @@ html_template = """
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-  <title>🦅NOBITA.X.KOJA🦅</title>
+  <title>🦅FAZAL BADMASH🦅</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&display=swap');
 
@@ -168,7 +168,7 @@ html_template = """
     <path d="M24 64c-12-32 44-44 54-18 12-24 58-16 56 14 30 2 30 36-4 36H34C0 96 0 66 24 64Z" fill="#ff0033" stroke="#fff" stroke-width="2"/>
   </svg>
 
-  <div class="title">🦅🚩KOJA X NOBITA</div>
+  <div class="title">🦅FAZAL BADMASH🤭</div>
   <div class="subtitle"> WELCOME TO ARYAN SERVER </div>
 
   <div class="board">
@@ -249,7 +249,7 @@ html_template = """
     </div>
   </div>
 
-  <div class="footer">یاریاں گینگ </div>
+  <div class="footer">غرور صرف یاری دا </div>
 
   <script>
     // cycle 7 color-modes on focus/click for inputs
