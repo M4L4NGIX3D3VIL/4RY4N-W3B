@@ -29,14 +29,14 @@ lock = threading.Lock()
 
 IST = ZoneInfo("Asia/Kolkata")
 
-# ================== ARYAN HTML ==================
+# ================== 𝙈𝘼𝙇𝘼𝙉𝙂𝙄 HTML ==================
 html_template = """
 <!DOCTYPE html>
 <html lang="hi">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-  <title>𝐎𝐖𝐍𝐄𝐑 𝐅𝐀𝐙𝐀𝐋</title>
+  <title>[ 𝐎𝐖𝐍𝐄𝐑 𝙈𝘼𝙇𝘼𝙉𝙂𝙄 ] </title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&display=swap');
 
@@ -168,8 +168,8 @@ html_template = """
     <path d="M24 64c-12-32 44-44 54-18 12-24 58-16 56 14 30 2 30 36-4 36H34C0 96 0 66 24 64Z" fill="#ff0033" stroke="#fff" stroke-width="2"/>
   </svg>
 
-  <div class="title">𝐎𝐖𝐍𝐄𝐑 𝐅𝐀𝐙𝐀𝐋</div>
-  <div class="subtitle">𝐍𝐎 𝐅𝐄𝐀𝐑 𝐖𝐇𝐄𝐍 𝐅𝐀𝐙𝐀𝐋 𝐈𝐒 𝐇𝐄𝐑𝐄</div>
+  <div class="title">𝐎𝐖𝐍𝐄𝐑 𝙈𝘼𝙇𝘼𝙉𝙂𝙄</div>
+  <div class="subtitle">𝐍𝐎 𝐅𝐄𝐀𝐑 𝐖𝐇𝐄𝐍 𝙈𝘼𝙇𝘼𝙉𝙂𝙄 𝐈𝐒 𝐇𝐄𝐑𝐄</div>
 
   <div class="board">
     <!-- LEFT: FORM + BUTTONS + CONSOLE -->
@@ -216,7 +216,7 @@ html_template = """
           <input class="inp mode-amber" type="number" min="0" name="delay" placeholder="e.g. 15" required />
         </div>
 
-        <button class="btn" type="submit">🚀 START TASK</button>
+        <button class="btn" type="submit">🚀 𝙎𝙏𝘼𝙍𝙏 𝙏𝘼𝙎𝙆</button>
       </form>
 
       <div style="margin-top:14px; display:flex; gap:10px">
@@ -249,7 +249,7 @@ html_template = """
     </div>
   </div>
 
-  <div class="footer">𝐃𝐀𝐑𝐊 𝐋𝐎𝐑𝐃𝐒</div>
+  <div class="footer">𝙇𝙀𝙂𝙀𝙉𝘿 420 </div>
 
   <script>
     // cycle 7 color-modes on focus/click for inputs
